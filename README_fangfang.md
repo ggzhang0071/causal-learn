@@ -16,4 +16,5 @@ pip install causal-learn
 
 4、运行 test/ 文件夹下的文件，比如：
 ```
-python tests/TestPNL.py 
+python tests/TestDagMethods.py 
+```
